@@ -54,6 +54,7 @@ SERVER_SECRET='!secret!'
 3. Start the server.
 
 ```
+npm run compile
 npm run start
 ```
 
