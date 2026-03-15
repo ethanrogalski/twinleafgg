@@ -1,4 +1,4 @@
-const { config } = require('./output/config');
+const { config } = require('./output/config.js');
 
 config.backend.address = '0.0.0.0';
 config.backend.port = 8080;
